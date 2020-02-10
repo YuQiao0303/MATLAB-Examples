@@ -1,0 +1,5 @@
+- 根据吴恩达机器学习课程的Octave语法一节进行整理
+- 内容涵盖最常用的MATLAB用法、命令、语法等
+- Octave和MATLAB语法相似，几乎可以套用
+- allCode.md可用于速查
+- [吴恩达机器学习课程视频](https://www.bilibili.com/video/av50747658?p=26)
